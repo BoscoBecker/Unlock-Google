@@ -6,7 +6,7 @@ Desbloqueando conta Google em Smartphones
 
 3 Conectar via USB
 
-3 Executar o "bypass-addROM.com.bat"
+3 Executar o "Reset.cmd"
 
 4 Desconecta do USB
 
