@@ -1,0 +1,9 @@
+x64 os
+Windows version: 8.1
+Installing drivers, please wait
+drvinstall.exe intc_usbcomp.inf returned 0
+drvinstall.exe intc_cdcserial.inf returned 0
+drvinstall.exe intc_rndis.inf returned 0
+drvinstall.exe intc_mtp.inf returned 0
+drvinstall.exe intc_adb.inf returned 0
+drvinstall.exe intc_dvctrace.inf returned 0
