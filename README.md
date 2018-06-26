@@ -12,7 +12,7 @@ Desbloqueando conta Google em Smartphones
 
 5 Só usar
 
-Obs: Use com consiência, apenas em caso de esquecimento 
+Obs: Use com consciência, apenas em caso de esquecimento 
 da conta do Smartphone.
 
 
