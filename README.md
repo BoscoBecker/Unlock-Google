@@ -2,7 +2,7 @@ Desbloqueando conta Google em Smartphones
 
 1 Instalar o programa "IntelAndroidDrvSetup1.10.0.exe"
  
-2 Reinicialização a frio no smartphone 
+2 Hard Reset no smartphone 
 
 3 Conectar via USB
 
